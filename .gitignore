@@ -12,7 +12,6 @@ obj/
 xcuserdata
 xcshareddata
 
-/mars/libraries/*/
 /mars/*/libs/
 !/mars/boost/libs/
 /samples/iOS/iOSDemo/Kernel/MarsLib/
